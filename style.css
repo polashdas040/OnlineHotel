@@ -1,0 +1,11 @@
+*{margin: 0; padding: 0; box-sizing: border-box;
+    font-family: 'Red Rose', cursive;
+    font-family: 'Varta', sans-serif;}
+.carousel-inner img {
+    width: 100%;
+    height: 90vh;
+}
+.abouting{
+    width: 100%;
+    height: 250px !important;
+}
